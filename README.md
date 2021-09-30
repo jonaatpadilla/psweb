@@ -1,5 +1,8 @@
 # Simple web app for Pluralsight courses and Docker Deep Dive book
 [![CI to Docker HUB](https://github.com/jonaatpadilla/psweb/actions/workflows/main.yml/badge.svg)](https://github.com/jonaatpadilla/psweb/actions/workflows/main.yml)
+
+[![CI Github Container Registry](https://github.com/jonaatpadilla/psweb/actions/workflows/github_registry.yml/badge.svg)](https://github.com/jonaatpadilla/psweb/actions/workflows/github_registry.yml)
+
 Exposes web server on port `8080` as per `./app.js`
 
 See `Dockerfile` for more details
